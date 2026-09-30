@@ -238,4 +238,4 @@ This repository serves as the official landing page for Earth3D. The software is
 **Get the most recent version of Earth3D today!**
 
 ---
-**Last updated:** 2026-09-29 23:30:28 UTC
+**Last updated:** 2026-09-30 04:29:23 UTC
